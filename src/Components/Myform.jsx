@@ -17,7 +17,7 @@ const Myform = () => {
                             <input type="text" id="fname" name="email" className="W-50 form work-sans w-100" placeholder="Email Address" />
                         </div>
                         <input type="text" id="fname" name="Company" className="W-100 form work-sans pt-30" placeholder="Company Name" />
-                        <textarea type="text" id="fname" name="Company" className="W-100 form work-sans pb-5 pt-30" placeholder="Message" />
+                        <textarea type="text" id="fname" name="Company" className="W-100 form work-sans pb-5 pt-30 " placeholder="Message" />
 
                         <div className="">
                             <button className='white fs-md fw-700 lh-normal App work-sans btn-1'>Submit</button>

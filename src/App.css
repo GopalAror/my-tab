@@ -426,6 +426,9 @@ background: linear-gradient(97deg, #FD9B2B 13.58%, #F14F09 86.99%), #FFF;
 .overflow-hidden{
   overflow: hidden;
 }
+textarea{
+  resize: none;
+}
 @media (max-width:576px) {
   :root{
     --fs-xs: 10px;
