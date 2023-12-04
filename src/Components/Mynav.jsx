@@ -5,6 +5,7 @@ import search from "../assets/search.svg";
 const Mynav = () => {    
     function myNav() {
         document.querySelector(".mobileView").classList.toggle("view")
+        document.body.classList.toggle("overflow-hidden")
     }
      return (
         <div>
